@@ -1,1 +1,4 @@
 /.kile
+*.aux
+.log
+.gz
