@@ -1,1 +1,12 @@
-
+Assignment
+1. Write a program to set zero and parity flags and reset other flags.
+2 Write a program to set auxiliary flag and reset parity flag without affecting other flags.
+3 Write a program to count the no of bits that are 1 in register A.
+4 Write a program to add nos. from one to fifty and display the 16 bit result at port A & B.
+5 Write a program that will count up from 00 to FF at port A. Be sure to use PCHL command.
+6 Write a program to transfer the data at 8020 to 8030 if the data is greater than 127. You can assume data yourself.
+7 Write a program to rotate the data 3C in port A. Call a delay subroutine for the delaying.
+8 Write a program that will check whether the bit D6 of a number stored at 8123 is 0 and its bit D3 is 1. If the
+condition satisfies display the number.
+9 Write a program that will check whether the number in reg. B is even or not. If the number is even display it in
+port A.
